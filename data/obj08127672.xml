@@ -1,0 +1,210 @@
+<document id="08127672" info="object from midas in plain xml, ignore obj/DID a8450/@id" param="">
+    <sessionId>gp0qgx06d86u</sessionId>
+    <obj DID="33931" Lvl="1">
+    <?objID 08127672?>
+        <a5000>08127672</a5000>
+        <aob28 text="Verwalter">
+            <a28gn>gnd4028160-7</a28gn>
+            <a2864>Rom</a2864>
+            <a2900>Galleria Nazionale d'Arte Antica</a2900>
+            <a2930>Galleria Corsini</a2930>
+            <a2950 sort="00000388">388</a2950>
+            <a9040>Palazzo Corsini</a9040>
+            <a290i>http://www.barberinicorsini.org/en/opera/saint-sebastian-healed-by-angels/</a290i>
+        </aob28>
+        <aob30 text="Herstellung">
+            <a3100>Rubens, Peter Paul</a3100>
+            <a3475>Maler</a3475>
+            <a3000>02552925</a3000>
+            <a3105>Rúbens, Pedro Pablo &amp; Rubens, P. P. &amp; Rubens, Pedro Pablo &amp; Rubens, Pietro Paolo</a3105>
+            <a31nn>Peter Paul Rubens</a31nn>
+            <a30gn>gnd11860354X</a30gn>
+        </aob30>
+        <a309a text="frühere Zuschreibung?">
+            <a3090>Dyck, Anton van</a3090>
+            <a3096>Maler</a3096>
+            <a3092>Foto Anderson</a3092>
+        </a309a>
+        <a5060 text="Datierung">
+            <a5064 from="1602" to="1602" year="">1602</a5064>
+            <a5061>Brown 2001: "during his first trip to Rome"</a5061>
+            <a506rl>oder</a506rl>
+        </a5060>
+        <a5060 text="Datierung">
+            <a5064 from="1606" to="1608" year="">1606/1608</a5064>
+            <a5061>Brown 2001: "or a few years later after his return to the city"</a5061>
+            <a506rl>oder</a506rl>
+        </a5060>
+        <a5007 text="Doppelerfassung (extern)">
+            <a501k>Rijksbureau voor kunsthistorische Documentatie</a501k>
+            <a501t>https://rkd.nl/explore/images/120267</a501t>
+            <a509o>viaf156001284</a509o>
+        </a5007>
+        <a5007 text="Variante?">
+            <a5008>08017471</a5008>
+            <a5009>Rubens, Peter Paul</a5009>
+            <a5010>Gemälde</a5010>
+            <a5015>Antwerpen</a5015>
+            <a501k>Rubenshuis</a501k>
+            <a501t>https://upload.wikimedia.org/wikipedia/commons/2/20/Rubens-Rubenshuis-Saint_S%C3%A9bastien.jpg</a501t>
+        </a5007>
+        <a5007 text="Vorlage? zu">
+            <a5009>Rubens, Peter Paul</a5009>
+            <a5015>Wichita (Kansas)</a5015>
+            <a501k>Litwin collection</a501k>
+            <a501t>Umkreis; Arm des Sebastian in unterschiedlicher Haltung</a501t>
+        </a5007>
+        <a5200>Der heilige Sebastian wird von Engeln befreit</a5200>
+        <a52bh>S. Sebastiano curato dagli angeli; The Martyrdom of S. Sebastian</a52bh>
+        <a5220>Malerei</a5220>
+        <a5220>Tafelmalerei</a5220>
+        <a5230>Gemälde</a5230>
+        <a5260>Öl :</a5260>
+        <a5260>Leinwand</a5260>
+        <a5360 x="1555" y="1195">155,5 x 119,5 cm</a5360>
+        <a5500>11 H (SEBASTIAN) 64</a5500>
+        <a8350>Brown, Beverly Louise (Hg.): Ausst.-Kat. The genius of 
+Rome, 1592-1623, Royal Academy of Arts 20.1.-16.4.2001, London 2001, 
+Kat. 105</a8350>
+        <a8450 id="FOT051561" obj="08127672" part="08127672" text="Foto (digital)">
+            <a8460>Bibliotheca Hertziana</a8460>
+            <a8470>bhim00034167.tif</a8470>
+            <a8540>bhim00034167</a8540>
+            <a8515>art</a8515>
+            <a8496 from="2017" to="2017.10.10" year="1">2017.10.10</a8496>
+            <a8482>color</a8482>
+            <a8490>Fontolan, Enrico</a8490>
+            <a8494 from="2017" to="2017.08.17" year="1">2017.08.17</a8494>
+            <a8510>mit Rahmen</a8510>
+            <a8541>freigegeben</a8541>
+            <sort cat="ART">Dyck, Anton van</sort>
+            <sort cat="ART">Rubens, Peter Paul</sort>
+            <sort cat="LOC">Antwerpen</sort>
+            <sort cat="LOC">Rom</sort>
+            <sort cat="LOC">Wichita (Kansas)</sort>
+            <sort cat="MUS">Galleria Corsini</sort>
+            <sort cat="MUS">Galleria Nazionale d'Arte Antica</sort>
+        </a8450>
+        <a8450 id="FOT051562" obj="08127672" part="08127672" text="Foto (digital)">
+            <a8460>Bibliotheca Hertziana</a8460>
+            <a8470>bhim00034168.tif</a8470>
+            <a8540>bhim00034168</a8540>
+            <a8515>art</a8515>
+            <a8496 from="2017" to="2017.10.10" year="1">2017.10.10</a8496>
+            <a8476>_HER7362a</a8476>
+            <a8482>color</a8482>
+            <a8490>Fontolan, Enrico</a8490>
+            <a8494 from="2017" to="2017.08.17" year="1">2017.08.17</a8494>
+            <a8510>ohne Rahmen</a8510>
+            <a8541>freigegeben</a8541>
+            <sort cat="ART">Dyck, Anton van</sort>
+            <sort cat="ART">Rubens, Peter Paul</sort>
+            <sort cat="LOC">Antwerpen</sort>
+            <sort cat="LOC">Rom</sort>
+            <sort cat="LOC">Wichita (Kansas)</sort>
+            <sort cat="MUS">Galleria Corsini</sort>
+            <sort cat="MUS">Galleria Nazionale d'Arte Antica</sort>
+        </a8450>
+        <a8450 id="FOT051563" obj="08127672" part="08127672" text="Foto">
+            <a8460>(Bibliotheca Hertziana)</a8460>
+            <a8540>bh020001</a8540>
+            <a84bh>0</a84bh>
+            <a8515>art</a8515>
+            <a8496 from="1940" to="1944" year="">1940/1944</a8496>
+            <a8482>s/w</a8482>
+            <a8510>Gesamtansicht mit einfachem Rahmen</a8510>
+            <a8541>freigegeben</a8541>
+            <sort cat="ART">Dyck, Anton van</sort>
+            <sort cat="ART">Rubens, Peter Paul</sort>
+            <sort cat="LOC">Antwerpen</sort>
+            <sort cat="LOC">Rom</sort>
+            <sort cat="LOC">Wichita (Kansas)</sort>
+            <sort cat="MUS">Galleria Corsini</sort>
+            <sort cat="MUS">Galleria Nazionale d'Arte Antica</sort>
+        </a8450>
+        <a8450 id="FOT051564" obj="08127672" part="08127672" text="Foto">
+            <a8460>ICCD</a8460>
+            <a8470>E 29782</a8470>
+            <a8540>bh162527</a8540>
+            <a84bh>162527</a84bh>
+            <a8515>art</a8515>
+            <a8496 from="1970" to="1970" year="">1970</a8496>
+            <a8476>GFN E 29782</a8476>
+            <a8482>s/w</a8482>
+            <a8596>D003176 (im ICCD online Katalog, anderes Negativ?)</a8596>
+            <a8548>http://www.fotografia.iccd.beniculturali.it/images/watermark /14/132318.jpg</a8548>
+            <a8510>Gesamtansicht mit verziertem Rahmen</a8510>
+            <a8541>gesperrt</a8541>
+            <a8579>http://www.fotografia.iccd.beniculturali.it/index.php?r=collezioni/scheda&amp;id=584043</a8579>
+            <sort cat="ART">Dyck, Anton van</sort>
+            <sort cat="ART">Rubens, Peter Paul</sort>
+            <sort cat="LOC">Antwerpen</sort>
+            <sort cat="LOC">Rom</sort>
+            <sort cat="LOC">Wichita (Kansas)</sort>
+            <sort cat="MUS">Galleria Corsini</sort>
+            <sort cat="MUS">Galleria Nazionale d'Arte Antica</sort>
+        </a8450>
+        <a8450 id="FOT051565" obj="08127672" part="08127672" text="Foto">
+            <a8460>Anderson</a8460>
+            <a8470>1195</a8470>
+            <a8540>bh591693</a8540>
+            <a84bh>0</a84bh>
+            <a8515>art</a8515>
+            <a8496 from="1960" to="9999" year="">nach 1960</a8496>
+            <a8482>s/w</a8482>
+            <a8494 from="1935" to="1935" year="">1935?</a8494>
+            <a8510>Gesamtansicht mit einfachem Rahmen</a8510>
+            <a8541>gesperrt</a8541>
+            <a8579>beschriftet: "Van Dyck"</a8579>
+            <sort cat="ART">Dyck, Anton van</sort>
+            <sort cat="ART">Rubens, Peter Paul</sort>
+            <sort cat="LOC">Antwerpen</sort>
+            <sort cat="LOC">Rom</sort>
+            <sort cat="LOC">Wichita (Kansas)</sort>
+            <sort cat="MUS">Galleria Corsini</sort>
+            <sort cat="MUS">Galleria Nazionale d'Arte Antica</sort>
+        </a8450>
+        <a8450 id="FOT051566" obj="08127672" part="08127672" text="Foto">
+            <a8460>ICCD</a8460>
+            <a8470>F 13188</a8470>
+            <a8540>bh162465</a8540>
+            <a84bh>162465</a84bh>
+            <a8515>art</a8515>
+            <a8496 from="1970" to="1970" year="">1970</a8496>
+            <a8476>GFN F 13188</a8476>
+            <a8482>s/w</a8482>
+            <a8510>Detail: Engel zur Linken Sebastians</a8510>
+            <a8541>gesperrt</a8541>
+            <sort cat="ART">Dyck, Anton van</sort>
+            <sort cat="ART">Rubens, Peter Paul</sort>
+            <sort cat="LOC">Antwerpen</sort>
+            <sort cat="LOC">Rom</sort>
+            <sort cat="LOC">Wichita (Kansas)</sort>
+            <sort cat="MUS">Galleria Corsini</sort>
+            <sort cat="MUS">Galleria Nazionale d'Arte Antica</sort>
+        </a8450>
+        <a8450 id="FOT051567" obj="08127672" part="08127672" text="Foto">
+            <a8460>ICCD</a8460>
+            <a8470>F 13187</a8470>
+            <a8540>bh162466</a8540>
+            <a84bh>162466</a84bh>
+            <a8515>art</a8515>
+            <a8496 from="1970" to="1970" year="">1970</a8496>
+            <a8476>GFN F 13187</a8476>
+            <a8482>s/w</a8482>
+            <a8510>Detail: Sebastians Oberkörper, Kopf und Arm mit Engel zur Rechten</a8510>
+            <a8541>gesperrt</a8541>
+            <sort cat="ART">Dyck, Anton van</sort>
+            <sort cat="ART">Rubens, Peter Paul</sort>
+            <sort cat="LOC">Antwerpen</sort>
+            <sort cat="LOC">Rom</sort>
+            <sort cat="LOC">Wichita (Kansas)</sort>
+            <sort cat="MUS">Galleria Corsini</sort>
+            <sort cat="MUS">Galleria Nazionale d'Arte Antica</sort>
+        </a8450>
+        <a99bh>Pharos data mapping example</a99bh>
+        <a9902>Bibliotheca Hertziana Rom</a9902>
+        <a9904>cgl</a9904>
+        <a9920>2017.04.21</a9920>
+    </obj>
+</document>
