@@ -6,3 +6,5 @@ This repository contains data examples for the PHAROS consortium and associated 
 The updated XML data is provided within the online catalogue of the photographic collection: http://foto.biblhertz.it hosted by the Bibliotheca Hertziana. Data copies are transferred each year to the general database and DISKUS union catalog http://www.bildindex.de, hosted by Foto Marburg, together with the photo data from the Kunsthistorisches Institut at Florence (Max Planck Institute). Some of the object data with original Hertziana photographs are available at the Deutsche Digitale Bibliothek https://www.deutsche-digitale-bibliothek.de/?lang=en, where the data was mapped to LIDO and could also be prepared for Europeana purposes http://www.europeana.eu/portal/en. 
 
 The PHAROS.JSON examples are used for http://images.pharosartresearch.org/source/biblhertz.
+
+The example obj08127672.xml (Rubens' Sebastian at Galleria Corsini, Rome) from http://foto.biblhertz.it/exist/foto/obj08127672 is a use case for mapping with CIDOC/CRM.
